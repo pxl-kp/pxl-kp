@@ -47,5 +47,6 @@
 </div>
 
 ###
-
-<img src="https://github.com/pxl-kp/pxl-kp/blob/main/gitartwork.svg" />
+<div align="center" hight="135px">
+  <img src="https://github.com/pxl-kp/pxl-kp/blob/main/gitartwork.svg" />
+</div>
