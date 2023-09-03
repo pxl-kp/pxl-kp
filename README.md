@@ -1,6 +1,3 @@
-<h2 align="left">Hi 👋! My name is Sasha and I'm a software developer from Ukraine</h2>
-
-###
 
 <div align="right">
   <img src="https://streak-stats.demolab.com?user=pxl-kp&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
