@@ -2,10 +2,6 @@
 
 ###
 
-<img align="left" height="170" src="https://c4.wallpaperflare.com/wallpaper/231/596/939/overwatch-video-games-tracer-overwatch-digital-art-wallpaper-preview.jpg"  />
-
-###
-
 <div align="right">
   <img src="https://streak-stats.demolab.com?user=pxl-kp&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pxl-kp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
