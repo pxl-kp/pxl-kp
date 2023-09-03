@@ -1,0 +1,18 @@
+ name: gitartwork from a contribution graph
+ on: 
+   push:
+   schedule:
+     - cron: '* */24 * * *'
+ jobs:
+   build:
+     name: Make gitartwork SVG
+     runs-on: ubuntu-latest
+     steps:
+       - uses: actions/checkout@v3
+       - uses: pxl/gitartwork@v1
+         with:
+            # Use this username's contribution graph  
+            user_name: pxl-kp
+            # Text on contribution graph 
+            text: PXL
+       - uses: pxl-kp/simple-push-action@v1
