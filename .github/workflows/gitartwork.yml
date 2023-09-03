@@ -1,4 +1,4 @@
- name: gitartwork from a contribution graph
+name: gitartwork from a contribution graph
  on: 
    push:
    schedule:
@@ -9,10 +9,10 @@
      runs-on: ubuntu-latest
      steps:
        - uses: actions/checkout@v3
-       - uses: pxl-kp/gitartwork@v1
+       - uses: jasineri/gitartwork@v1
          with:
             # Use this username's contribution graph  
             user_name: pxl-kp
             # Text on contribution graph 
             text: PXL
-       - uses: pxl-kp/simple-push-action@v1
+       - uses: jasineri/simple-push-action@v1
