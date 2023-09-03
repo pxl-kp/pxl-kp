@@ -2,13 +2,13 @@
 
 ###
 
-<img align="left" height="100" src="https://c4.wallpaperflare.com/wallpaper/231/596/939/overwatch-video-games-tracer-overwatch-digital-art-wallpaper-preview.jpg"  />
+<img align="left" height="170" src="https://c4.wallpaperflare.com/wallpaper/231/596/939/overwatch-video-games-tracer-overwatch-digital-art-wallpaper-preview.jpg"  />
 
 ###
 
 <div align="right">
   <img src="https://streak-stats.demolab.com?user=pxl-kp&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pxl-kp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="120" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pxl-kp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -52,5 +52,9 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/pxl-kp/pxl-kp/output/snake.svg" alt="Snake animation" />
 
 ###
