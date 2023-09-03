@@ -48,4 +48,3 @@
 
 ###
 
-<img src="https://github.com/pxl-kp/pxl-kp/blob/main/gitartwork.svg" />
