@@ -2,7 +2,7 @@
 
 ###
 
-<img align="left" height="150" src="https://c4.wallpaperflare.com/wallpaper/231/596/939/overwatch-video-games-tracer-overwatch-digital-art-wallpaper-preview.jpg"  />
+<img align="left" height="100" src="https://c4.wallpaperflare.com/wallpaper/231/596/939/overwatch-video-games-tracer-overwatch-digital-art-wallpaper-preview.jpg"  />
 
 ###
 
