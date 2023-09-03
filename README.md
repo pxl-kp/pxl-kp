@@ -48,4 +48,4 @@
 
 ###
 
-![Snake animation](https://github.com/pxl-kp/pxl-kp/blob/output/github-contribution-grid-snake.svg)
+![Text stuff](https://github.com/pxl-kp/pxl-kp/blob/main/gitartwork.svg)
