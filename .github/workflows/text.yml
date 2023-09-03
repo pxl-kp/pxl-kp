@@ -9,7 +9,7 @@
      runs-on: ubuntu-latest
      steps:
        - uses: actions/checkout@v3
-       - uses: pxl/gitartwork@v1
+       - uses: pxl-kp/gitartwork@v1
          with:
             # Use this username's contribution graph  
             user_name: pxl-kp
