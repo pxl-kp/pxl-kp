@@ -48,4 +48,4 @@
 
 ###
 
-![Text stuff](https://github.com/pxl-kp/pxl-kp/blob/main/gitartwork.svg)
+<img src="https://github.com/pxl-kp/pxl-kp/blob/main/gitartwork.svg" height="90%"/>
