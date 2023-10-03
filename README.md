@@ -1,6 +1,6 @@
 
 <div align="right">
-  <img src="https://streak-stats.demolab.com?user=pxl-kp&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pxl-kp&theme=dark" alt="pxl-kp" /></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pxl-kp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
